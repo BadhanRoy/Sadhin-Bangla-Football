@@ -12,7 +12,6 @@
     <script src="award.js" defer></script>
     <script src="menu.js" defer></script>
     
-    
 </head>
 
 <body>
@@ -47,8 +46,7 @@
         </div>
         <div class="nav-right">
             <span class="more-game">More than a game</span>
-            <a href="login.php" class="sign-in">Sign in</a>
-
+            <button class="sign-in">Sign in</button>
             <div class="hamburger">&#9776;</div>
             
         </div>
